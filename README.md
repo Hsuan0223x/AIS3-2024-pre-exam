@@ -1,2 +1,2 @@
 # AIS3 2024 Pre-exam Write-up
-https://hackmd.io/@hsuan0223x/HkH0FxME0
+[https://www.hsuan0223x.com](https://www.hsuan0223x.com/posts/ais3-pre-exam-2024/)
